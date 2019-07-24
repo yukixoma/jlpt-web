@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jlpt-web/static/css/main.73ffd13f.chunk.css",
+    "main.js": "/jlpt-web/static/js/main.d629266e.chunk.js",
+    "main.js.map": "/jlpt-web/static/js/main.d629266e.chunk.js.map",
+    "runtime~main.js": "/jlpt-web/static/js/runtime~main.6af0e0f2.js",
+    "runtime~main.js.map": "/jlpt-web/static/js/runtime~main.6af0e0f2.js.map",
+    "static/js/2.c4494dbe.chunk.js": "/jlpt-web/static/js/2.c4494dbe.chunk.js",
+    "static/js/2.c4494dbe.chunk.js.map": "/jlpt-web/static/js/2.c4494dbe.chunk.js.map",
+    "index.html": "/jlpt-web/index.html",
+    "precache-manifest.4747d453ae551e649d9019b18d97d5d9.js": "/jlpt-web/precache-manifest.4747d453ae551e649d9019b18d97d5d9.js",
+    "service-worker.js": "/jlpt-web/service-worker.js",
+    "static/css/main.73ffd13f.chunk.css.map": "/jlpt-web/static/css/main.73ffd13f.chunk.css.map",
+    "static/media/index.css": "/jlpt-web/static/media/guoyu.0f7f6027.woff2"
+  }
+}
